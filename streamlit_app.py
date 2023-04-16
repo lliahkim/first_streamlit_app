@@ -3,4 +3,5 @@
 import streamlit
 
 streamlit.title("My parent new healthy diner")
-streamlit.text("Breakfast Menu")
+streamlit.header("Breakfast Menu")
+streamlit.text("Omelette - $5)
